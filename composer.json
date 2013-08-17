@@ -1,0 +1,7 @@
+{
+	"name"			: "quality-press/rafaelcordeiro",
+	"description"	: "treinamento",
+    "require": {
+        "monolog/monolog": "1.2.*"
+    }
+}
