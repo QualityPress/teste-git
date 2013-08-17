@@ -1,0 +1,8 @@
+{
+        "name":"quality-press/santiago",
+        "description":"teste",
+        
+	"require": {
+		"monolog/monolog" : "1.0.*"
+	}
+}
