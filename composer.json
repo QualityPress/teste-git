@@ -1,5 +1,5 @@
 {
-	"name"			: "quality-press/rafaelcordeiro",
+	"name"			: "quality-press/teste-git",
 	"description"	: "treinamento",
     "require": {
         "monolog/monolog": "1.2.*"
