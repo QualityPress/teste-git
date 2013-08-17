@@ -1,0 +1,9 @@
+{
+
+	"name": "quality-press/jorge",
+	"description": "teste",
+
+    "require": {
+        "monolog/monolog"   		: "1.0.*",
+    }
+}
