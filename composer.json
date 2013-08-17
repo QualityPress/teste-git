@@ -1,0 +1,9 @@
+{
+	"name": "quality-press/maicon",
+	"description" : "teste Maicon",
+	
+    "require": {
+        "monolog/monolog": "1.0.*"
+		
+    }
+}
